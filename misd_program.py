@@ -15,7 +15,6 @@ def sum_loop(n):
 
 start = time.time()
 
-# Same input, different algorithms
 result1 = sum_formula(n)
 result2 = sum_loop(n)
 
